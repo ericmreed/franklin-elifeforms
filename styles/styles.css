@@ -15,9 +15,12 @@
   --link-color: #035fe6;
   --link-hover-color: #136ff6;
   --background-color: #fff;
-  --overlay-background-color: #eee;
+  --overlay-background-color: #9a9a9a;
+  --footer-background-color: #454444;
   --highlight-background-color: #ccc;
   --text-color: #000;
+  --footer-text-color: #fff;
+  --header-background-color: #6e1010;
 
   /* fonts */
   --body-font-family: 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
